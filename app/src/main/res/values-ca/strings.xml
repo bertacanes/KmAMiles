@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KmAMilles</string>
+    <string name="btn_a_km">A Quilòmetres</string>
+    <string name="btn_a_milles">A Milles</string>
+    <string name="label_km">Quilòmetres</string>
+    <string name="label_milles">Milles</string>
+</resources>

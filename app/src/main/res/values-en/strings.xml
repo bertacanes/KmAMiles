@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KmToMiles</string>
+    <string name="btn_a_km">To Kilometers</string>
+    <string name="btn_a_milles">To Miles</string>
+    <string name="label_km">Kilometers</string>
+    <string name="label_milles">Miles</string>
+</resources>
